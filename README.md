@@ -1,7 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+👋+I'm+Tev!+A+Passionate+Cybersecurity+Student!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+👋+I'm+Tev!)
+
 <img alight="right" align="right" width="400" src="https://idejupr.lt/img/351692.gif">
 
-- 🌱 Life is all about Cybersecurity! **Forensics, OSINT, WAPT, Binary Exploitation & More!**
+- 👨‍💻 Cybersecurity Stuff! **Forensics, OSINT, WAPT, Binary Exploitation & More!**
 - 🚩 Playing all sorts of CTF!
 - 📫 Reach me at **shotevels@gmail.com**
 
