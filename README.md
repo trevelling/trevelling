@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Tev!)
+<h1>![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Tev!)<h1>
 <h1 align="center">Hi 👋, I'm Tev</h1>
 <h3 align="center">A Passionate Cybersecurity Student!</h3>
 <img alight="right" align="right" width="400" src="https://idejupr.lt/img/351692.gif">
