@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+👋+I'm+Tev!)
-<h3 align="center">A Passionate Cybersecurity Student!</h3>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+👋+I'm+Tev!+A+Passionate+Cybersecurity+Student!)
 <img alight="right" align="right" width="400" src="https://idejupr.lt/img/351692.gif">
 
 - 🌱 Life is all about Cybersecurity! **Forensics, OSINT, WAPT, Binary Exploitation & More!**
