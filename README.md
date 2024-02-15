@@ -6,9 +6,9 @@
 - 📫 Reach me at **shotevels@gmail.com**
 - <a href="https://www.linkedin.com/in/tevsrz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tevel sho" height="30" width="40" /></a>
 
-<div align="center"> <!-- Aligns the content in the center -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevelling&layout=compact" alt="Top Languages" />
-</div>
+
+<img width="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevelling&layout=compact" alt="Top Languages" />
+
 
 
 
