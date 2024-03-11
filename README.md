@@ -7,8 +7,8 @@
 - 🔗 Check me out at **https://tevelsho.com**
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevelling&layout=compact" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=trevelling&theme=dark&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevelling&theme=buefy&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=trevelling&theme=buefy&show_icons=true" />
 
 
 
