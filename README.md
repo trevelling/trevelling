@@ -4,10 +4,11 @@
 - 🚩 Playing all sorts of CTF!
 - 📫 Reach me at **shotevels@gmail.com**
 - 🔗 Check me out at **https://tevelsho.com**
-  
+
+<br />
 <div style="display: flex; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevelling&theme=buefy&layout=compact" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=trevelling&theme=buefy&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevelling&theme=buefy&layout=compact" alt="Top Languages" />
 </div>
 
 
