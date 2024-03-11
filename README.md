@@ -3,7 +3,7 @@
 - 👨‍💻 cyber stuff, maybe? dumping ground
 - 🚩 Playing all sorts of CTF!
 - 📫 Reach me at **shotevels@gmail.com**
-- 🔗 Check me out at **tevelsho.com**
+- 🔗 Check me out at **https://tevelsho.com**
 
 <br />
 <div style="display: flex; gap: 20px;">
